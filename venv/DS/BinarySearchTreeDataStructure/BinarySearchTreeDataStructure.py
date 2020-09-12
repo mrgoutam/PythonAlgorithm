@@ -17,4 +17,7 @@ minimum and maximum can be done fast. If there is no ordering, then we may have 
 a given key.
 
 Binary Search Tree works like a sorted array.
+
+
+Please move to LucidProgramming package
 """
