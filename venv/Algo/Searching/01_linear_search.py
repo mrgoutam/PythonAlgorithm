@@ -15,3 +15,13 @@ if __name__=='__main__':
         print(f'{target_} found at position: {result}')
     else:
         print('Target not found')
+
+'''
+------------------------OUTPUT BOX----------------------------------------
+Enter numbers separated by comma:
+12,13,14,6
+Enter a single number to be found in the list: 
+6
+6 found at position: 3
+--------------------------------------------------------------------------
+'''
